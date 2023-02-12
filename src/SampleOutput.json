@@ -1,0 +1,16 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Dwaipayan Datta",
+      "title": "Ravindra Jadeja's stunning comeback made Australia struggle in Nagpur - Indiatimes.com",
+      "description": "Cricket News: In the build-up to the Border Gavaskar Trophy, Australia had cried hoarse about the nature of the pitch that was on offer for the first Test at Jamtha",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/australia-in-india/india-vs-australia-1st-test-ravindra-jadejas-stunning-comeback-makes-australia-struggle/articleshow/97788845.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-97788947,width-1070,height-580,imgsize-32028,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-02-10T03:12:00Z",
+      "content": "I found great rhythm with my bowling today#TeamIndia all-rounder @imjadeja reflects on his super five-wicket https://t.co/WTi8plKDaH\r\n— BCCI (@BCCI) 1675946049000"
+    }
+  ]
+}
